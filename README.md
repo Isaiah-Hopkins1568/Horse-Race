@@ -25,7 +25,7 @@ isWinner(horses):
 MAIN:
     Initialize horses array with 0s (All horses start at position 0)
     Setup random number generator for coin flip (0 or 1)
-
+    
     Set raceOver to FALSE
 
     while raceOver is FALSE:
